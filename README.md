@@ -5,3 +5,6 @@ A 3D RPG prototype made in Godot 3.5.1. Simple but functional first-person persp
 Project link and download:
 
 https://champion-eternal.itch.io/the-untitled-godot-rpg
+
+Youtube video:
+https://www.youtube.com/watch?v=I7xL-KsknTE
